@@ -12,3 +12,9 @@ Takes in each score per dart per turn and takes away from score.
 Designed with a Tkinter GUI.
 
 TO USE:
+1. Download both files (darts_GUI.py GUI file AND player.py class file).
+2. Open whatever you use to run .py files - I use VSCode or PyCharm.
+3. Run "darts_GUI.py".
+
+TL;DR:
+I made a scoreboard app that records darts scores.
